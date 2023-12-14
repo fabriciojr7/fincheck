@@ -5,6 +5,8 @@
 Fincheck é uma uma aplicação web para controle de finanças pessoais, onde você pode cadastrar suas contas bancarias, e então ter um controle de suas finanças separadamente ou ate em conjunto tendo a possibilidade de visualizar todo o saldo disponível, dentro do fincheck você pode cadastrar suas transações sendo tanto de entrada e saída, onde automaticamente poderá ver a alteração de seu saldo, e também separar cada uma de suas transações por categorias, onde posteriormente para ter uma visualização terá a oportunidade de filtrar essas transações tanto por ano / mês / tipos de transações / tipos de contas bancarias. Alem disso, a aplicação tem todo um sistema de autenticação, onde terá que ser realizado um cadastro e posteriormente para poder continuar usando ser realizado a autenticação via login e senha.
 
 ## Layout web
+![Capa](https://github.com/fabriciojr7/fincheck/assets/54858776/fefb59bf-a4f8-4dae-8866-cb8e36d7da4f)
+
 ![Home - Mostrar Valores](https://github.com/fabriciojr7/fincheck/assets/54858776/efc16403-91e7-4afb-9625-b7d0e290652c)
 
 ![Home - Ocultar Valores](https://github.com/fabriciojr7/fincheck/assets/54858776/d7629e55-9642-4546-a392-131bd30cf599)
